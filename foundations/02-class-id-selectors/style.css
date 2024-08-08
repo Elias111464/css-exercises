@@ -1,17 +1,17 @@
 .one{
     font-family: Verdana, "DejaVu Sans", sans-serif;
-    background-color: rgb(194, 120, 155);
+    background-color: #ffb6c1;
 }
-.css{
+#css{
     font-size: 24px;
     font-weight: bolder;
     color:black;
-    background-color: rgb(134, 199, 134);
+    background-color: hsl(152, 100%, 50%);
 }
-.two{
+#two{
     font-size: 36px;
-    color: blue;
+    color: rgb(2, 2, 255);
 }
-#three{
+.three{
     font-size: 24px;
 }
