@@ -1,5 +1,17 @@
 p{
-    fonts-size: 36px;
+    font-family: Verdana, DejaVu Sans, sans-serif;
     background-color: rgb(194, 120, 155);
-    font-weight: bold;
+}
+.css{
+    font-size: 24px;
+    font-weight: bolder;
+    color:black;
+    background-color: rgb(115, 175, 115);
+}
+.two{
+    font-size: 36px;
+    color: blue;
+}
+.three{
+    font-size: 24px;
 }
