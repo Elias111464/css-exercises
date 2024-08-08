@@ -1,4 +1,4 @@
-p{
+.impar{
     font-family: Verdana, DejaVu Sans, sans-serif;
     background-color: rgb(194, 120, 155);
 }
@@ -12,6 +12,6 @@ p{
     font-size: 36px;
     color: blue;
 }
-.three{
+#three{
     font-size: 24px;
 }
